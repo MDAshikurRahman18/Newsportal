@@ -1,7 +1,7 @@
 <?php
 class Register
 {
-    // REGISTER
+    
     public static function registerUser()
     {
         $controll = array(0 => false, 1 => 'error');
